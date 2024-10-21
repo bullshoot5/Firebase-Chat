@@ -10,6 +10,3 @@
 # Ekran görüntüsü
 
 # ![](bes.gif)
-# Firebase-Chat-Room-App
-# Firebase-Chat-Room-App
-# Firebase-Chat-App
